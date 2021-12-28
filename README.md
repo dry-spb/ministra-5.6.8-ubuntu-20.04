@@ -13,7 +13,7 @@
 ```bash
 cd /opt
 apt-get install git
-git clone https://github.com/sybdata/ministra-install-ubuntu-20.04.git
+git clone https://github.com/dry-spb/ministra-5.6.8-ubuntu-20.04/ministra-install-ubuntu-20.04.git
 cd /opt/ ministra-install-ubuntu-20.04/
 ```
 
